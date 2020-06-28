@@ -1,2 +1,2 @@
 # private-preserving-machine-learning
-survey of palm
+survey of ppml(private preserving machine learing)
